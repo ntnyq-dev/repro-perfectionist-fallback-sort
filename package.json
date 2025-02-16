@@ -1,0 +1,14 @@
+{
+  "name": "repro-perfectionist-fallback-sort",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.20.1",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.24.0",
+    "eslint-plugin-perfectionist": "^4.9.0"
+  }
+}
